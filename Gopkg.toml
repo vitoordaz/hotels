@@ -29,6 +29,11 @@
   branch = "master"
 
 [[constraint]]
+  name = "github.com/gorilla/handlers"
+  source = "github.com/gorilla/handlers"
+  branch = "master"
+
+[[constraint]]
   name = "golang.org/x/text"
   source = "golang.org/x/text/language"
   branch = "master"
